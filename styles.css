@@ -1,0 +1,59 @@
+.top{
+   width:100%;
+   height: 110px;
+   background-image:url("https://img.freepik.com/free-photo/hercules-hall-surrounded-by-greenery-sunlight-daytime-munich-germany_181624-17876.jpg?t=st=1716907345~exp=1716910945~hmac=90a8196320184eba77bcb5ced62684bdc1a3aef698a41de3b457ebef66674113&w=1060") ;
+background-repeat: no-repeat;
+   background-size: cover;
+   
+
+}
+.heading{
+   text-align: center;
+   font-family:Georgia, 'Times New Roman', Times, serif;
+   padding-top: 10px;
+   font-weight: bolder;
+   text-shadow: 10px solid black;
+   
+}
+.sub-heading{
+   text-align: center;
+   
+
+  font-family: "Edu TAS Beginner", cursive;
+  font-optical-sizing: auto;
+  font-weight: bolder;
+  font-style: normal;
+
+}
+.column{
+   display: flex;
+  
+}
+.listings{
+   width: 700px;
+}
+.container{
+   
+ 
+margin: 0 0 0 0;
+margin-right: 0;
+padding: 0;
+object-fit:cover;
+}
+
+.jumbotron{
+   background-image: url("https://images.unsplash.com/photo-1562774053-701939374585?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Y29sbGVnZXxlbnwwfHwwfHx8MA%3D%3D");
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+   height: 600px;
+   width: 1400px;
+   margin-right: 0;
+}
+.nav-link {
+   color: black;
+}
+.y{
+   display: flex;
+   column-gap: 50px;
+}
